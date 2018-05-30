@@ -1,0 +1,9 @@
+{
+    "comment": "Это локальный конфиг. Переопределяет глобальный в C:\\Users\\sergey\\.node-inspector\\config",
+    "debug-port": 5152,
+    "web-port": 8082,
+    "debug-brk": true,
+    "save-live-edit": true,
+    "preload": false,
+    "hidden": ["\\test\\.js$", "node_modules\\"]
+}
